@@ -1,7 +1,7 @@
 from PIL import Image,ImageDraw
 
 #open and  show the image
-img=Image.open("per2.jpg")
+img=Image.open("photo.jpeg")
 img.show()
 
 #resize the image
