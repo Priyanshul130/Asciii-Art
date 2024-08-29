@@ -1,5 +1,5 @@
 #DEVELOPED BY <PRIYANSHUL SHARMA>
-#
+#WEBPAGE Priyanshu.is-a.dev
 img=Image.open("photo.jpeg")
 img.show()
 
