@@ -1,4 +1,5 @@
-#PRIYANSHUL SHARMA
+#DEVELOPED BY <PRIYANSHUL SHARMA>
+#
 img=Image.open("photo.jpeg")
 img.show()
 
