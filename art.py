@@ -1,6 +1,4 @@
-
-from PIL import Image,ImageDraw
-#open and  show the image
+#PRIYANSHUL SHARMA
 img=Image.open("photo.jpeg")
 img.show()
 
