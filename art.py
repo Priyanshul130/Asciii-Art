@@ -1,5 +1,5 @@
-from PIL import Image,ImageDraw
 
+from PIL import Image,ImageDraw
 #open and  show the image
 img=Image.open("photo.jpeg")
 img.show()
