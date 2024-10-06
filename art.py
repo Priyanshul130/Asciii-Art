@@ -8,6 +8,7 @@ width,height=img.size
 aspect_ratio= height/width
 new_width=80
 
+
 #height is calculated as per aspect ratio
 #/2 to reduce the numbar of pixels for the picture we are using
 new_height=aspect_ratio*new_width*0.50
